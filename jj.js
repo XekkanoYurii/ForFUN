@@ -1,3 +1,4 @@
-let box = "Dima";
-let box2 = 2;
-console.log(box + box2);
+function add() {
+    console.log('add');
+}
+add();
