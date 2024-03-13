@@ -1,9 +1,3 @@
-function hello() {
-    console.log('hello', this)
-}
-const person = {
-    name: 'Max',
-    age: 25,
-    sayHello: hello
-} 
-console.log(person);
+let box = "Dima";
+let box2 = 2;
+console.log(box + box2);
