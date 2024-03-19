@@ -1,6 +1,4 @@
-function add(a, b, c) {
-    const qwe = a + b;
-    const qwer = b + c;
-    console.log(qwe * qwer);
+function add(prise, items) {
+	console.log(items * prise);
 }
-add(1, 1, 1)
+add(115, 23)
