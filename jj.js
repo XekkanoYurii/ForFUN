@@ -1,1 +1,1 @@
-console.log(_); // Весь об'єкт бібліотеки Lodash
+console.log(_);
